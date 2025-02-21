@@ -1,5 +1,7 @@
 # Unix_assignment       Swathi Nadendla           Feb 19 2025 
 
+Important: I have created a copy of this folder in nova not to mess with raw data and worked on my version
+
 ## This is divided into data inspection and data processing 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 Description from understanding of two files provided in biological context 
